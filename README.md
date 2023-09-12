@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&pause=1000&color=F74242&background=FF9B9B00&width=435&lines=Ol%C3%A1%2C+eu+sou+Helio+Morais;Fique+a+vontade+para+me+conhecer+;ou+tirar+d%C3%BAvidas!" alt="Typing SVG" /></a>
 
 
 ## 🌐 Socials:
